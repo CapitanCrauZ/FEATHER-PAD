@@ -1,10 +1,8 @@
 import '../stylesheets/Main.css';
-import { ListaTestimonio } from './ListaTestimonios';
 
 function Main(){
-    return(
+    return (
         <div className = 'container-main'>
-            <ListaTestimonio/>
         </div>
     );
 }

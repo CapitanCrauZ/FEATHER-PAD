@@ -3,7 +3,7 @@ import '../stylesheets/Header.css'
 function Header(){
     return (
         <div className = 'container-header'>
-            <p>Feather Homepage</p>   
+            <h3>Feather Homepage</h3>   
         </div>
     );
 }

@@ -1,7 +1,7 @@
 import '../stylesheets/Testimonio.css'
 
 export function Testimonio(props){
-    return(
+    return (
         <div className='container-testimonio'>
             <img 
                 className='img-testimonio'

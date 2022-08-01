@@ -1,12 +1,64 @@
-p{
+ol, p{
     color: #ffffff;
+}
+
+h3{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px;
+}
+
+ul{
+    padding: 20px;
+}
+
+p{
+    max-width: 200px;
 }
 
 .container-footer{
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: center;;
     justify-content: center;
     background-color: #1b1b32;
     width: 100%;
-    padding: 80px;
+    min-height: 20vh;
+}
+
+.container-social{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    min-height: 70px;
+    justify-content: space-around;
+}
+
+.container-links{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+.section-social{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.section-company,.section-contact , .section-products, .section-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 5px;
+}
+
+
+.git-icon, .yt-icon, .gmail-icon, .fb-icon, .li-icon{
+    width: 30px;
+    height: 30px;
+    color: #ffffff;
 }
