@@ -9,6 +9,19 @@
     box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
 }
 
+.Testimonios{
+    min-height: 600px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+  
+.Testimonios p{
+    color: black;
+}
+
 .img-testimonio{
     height: 100%;
     width: auto;

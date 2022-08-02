@@ -10,7 +10,7 @@ function Footer(){
         <div className = 'container-footer'>
             <div class="container-links">
                 <section className='section-company'>
-                    <h3>Chenille</h3>
+                    <h3>Chenille Enterprise</h3>
                         <ul>
                             <ol>
                                 <p>

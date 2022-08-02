@@ -12,18 +12,18 @@ ul{
     padding: 20px;
 }
 
-p{
-    max-width: 200px;
-}
-
 .container-footer{
     display: flex;
     flex-direction: column;
     align-items: center;;
     justify-content: center;
-    background-color: #1b1b32;
+    background-color:  #000000e8;
     width: 100%;
     min-height: 20vh;
+}
+
+.container-footer p{
+    max-width: 200px;
 }
 
 .container-social{

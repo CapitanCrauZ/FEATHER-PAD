@@ -1,5 +1,6 @@
-h3{
-    color: #ffffff;
+img{
+    width: 50px;
+    height: 50px;
 }
 
 .container-header{
@@ -8,6 +9,7 @@ h3{
     align-self: flex-start;
     justify-content: center;
     padding: 20px;
-    background-color: #1b1b32;
+    background-color: #000000e8;
     width: 100%;
 }
+
